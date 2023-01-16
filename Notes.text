@@ -1,0 +1,2 @@
+1. Index.js is the entry point to the app.
+2. React component returns UI. Component is creating a big thing with small small things.
